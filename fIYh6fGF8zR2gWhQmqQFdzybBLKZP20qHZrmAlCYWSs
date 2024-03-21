@@ -2,7 +2,7 @@
   "name": "Biceek",
   "symbol": "BIT",
   "description": "Biceek Token",
-  "image": "https://gateway.irys.xyz/XgvFdJnB7TecHknLjYeEHrLeogfmdVhr9S9dBQIWvaE",
+  "image": "https://raw.githubusercontent.com/biceek-xyz/bit/main/biceek.gif",
   "extensions": {
     "website": "https://biceek.com",
     "twitter": "https://twitter.com/BiceekCom",
