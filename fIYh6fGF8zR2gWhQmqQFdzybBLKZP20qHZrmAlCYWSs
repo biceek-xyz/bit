@@ -1,1 +1,23 @@
-
+{
+  "name": "Biceek",
+  "symbol": "BIT",
+  "description": "Biceek Token",
+  "image": "https://gateway.irys.xyz/XgvFdJnB7TecHknLjYeEHrLeogfmdVhr9S9dBQIWvaE",
+  "extensions": {
+    "website": "https://biceek.com",
+    "twitter": "https://twitter.com/BiceekCom",
+    "telegram": "https://t.me/biceek",
+    "description": "Biceek - IoT, AI, Crypto and Miners",
+    "coingeckoId": "biceek"
+  },
+  "creator": {
+    "name": "Biceek",
+    "website": "https://biceek.com",
+    "twitter": "https://twitter.com/BiceekCom"
+  },
+  "tags": [
+    "IoT",
+    "LiveOnCrypto",
+    "Miner"
+  ]
+}
